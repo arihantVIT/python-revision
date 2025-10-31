@@ -11,4 +11,4 @@ class Solution:
             else:
                 right = mid - 1
 
-        return left  # if not found, 'left' is the correct insert position
+        return left
