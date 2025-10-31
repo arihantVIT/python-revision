@@ -7,6 +7,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -26,4 +27,8 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
