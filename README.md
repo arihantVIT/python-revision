@@ -7,6 +7,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
