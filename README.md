@@ -10,11 +10,13 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0033-search-in-rotated-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -40,4 +42,8 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/arihantVIT/python-revision/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
