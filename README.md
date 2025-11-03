@@ -12,6 +12,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,12 +32,14 @@ Revising Python &amp; DSA after exams — daily progress log
 | ------- |
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/arihantVIT/python-revision/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -46,4 +49,13 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
