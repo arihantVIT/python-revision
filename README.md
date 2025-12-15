@@ -6,6 +6,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arihantVIT/python-revision/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arihantVIT/python-revision/tree/master/0035-search-insert-position) |
@@ -53,6 +54,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arihantVIT/python-revision/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
