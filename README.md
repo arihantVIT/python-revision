@@ -16,6 +16,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arihantVIT/python-revision/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,12 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
