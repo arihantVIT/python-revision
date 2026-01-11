@@ -14,6 +14,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/arihantVIT/python-revision/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arihantVIT/python-revision/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,11 +59,13 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arihantVIT/python-revision/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -75,4 +79,8 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
