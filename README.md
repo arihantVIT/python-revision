@@ -39,6 +39,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arihantVIT/python-revision/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arihantVIT/python-revision/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -83,4 +85,8 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
