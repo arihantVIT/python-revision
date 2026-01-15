@@ -92,6 +92,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/arihantVIT/python-revision/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/arihantVIT/python-revision/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
