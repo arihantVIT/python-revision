@@ -89,4 +89,12 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/arihantVIT/python-revision/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/arihantVIT/python-revision/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
