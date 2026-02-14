@@ -7,6 +7,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arihantVIT/python-revision/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/arihantVIT/python-revision/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arihantVIT/python-revision/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0033-search-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/arihantVIT/python-revision/tree/master/0014-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -108,4 +110,8 @@ Revising Python &amp; DSA after exams — daily progress log
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/arihantVIT/python-revision/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arihantVIT/python-revision/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arihantVIT/python-revision/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
