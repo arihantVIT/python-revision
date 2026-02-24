@@ -85,6 +85,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arihantVIT/python-revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -117,11 +118,13 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arihantVIT/python-revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arihantVIT/python-revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arihantVIT/python-revision/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arihantVIT/python-revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arihantVIT/python-revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arihantVIT/python-revision/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -132,6 +135,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arihantVIT/python-revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arihantVIT/python-revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arihantVIT/python-revision/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
