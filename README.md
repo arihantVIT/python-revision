@@ -44,6 +44,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/arihantVIT/python-revision/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/arihantVIT/python-revision/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
@@ -90,6 +91,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/arihantVIT/python-revision/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 ## Counting
 |  |
@@ -100,6 +102,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | ------- |
 | [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arihantVIT/python-revision/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/arihantVIT/python-revision/tree/master/0043-multiply-strings) |
 ## Linked List
 |  |
 | ------- |
