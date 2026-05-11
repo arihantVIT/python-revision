@@ -1,14 +1,7 @@
-
+import math
 class Solution(object):
     def digit_counter(self,x):
-        n = x
-        count=0
-        while n>0 :
-            count+=1
-            n = n//10
-        
-        
-        return count
+        return int(math.log10(x)+1)
     def extractDigits(self,x):
         n = x
         digits=[]
