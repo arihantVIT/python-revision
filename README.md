@@ -51,6 +51,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
+| [2427-number-of-common-factors](https://github.com/arihantVIT/python-revision/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,4 +144,12 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0094-binary-tree-inorder-traversal](https://github.com/arihantVIT/python-revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arihantVIT/python-revision/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arihantVIT/python-revision/tree/master/0101-symmetric-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/arihantVIT/python-revision/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/arihantVIT/python-revision/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
