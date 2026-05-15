@@ -23,6 +23,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0349-intersection-of-two-arrays](https://github.com/arihantVIT/python-revision/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arihantVIT/python-revision/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2404-most-frequent-even-element](https://github.com/arihantVIT/python-revision/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arihantVIT/python-revision/tree/master/0349-intersection-of-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arihantVIT/python-revision/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2404-most-frequent-even-element](https://github.com/arihantVIT/python-revision/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arihantVIT/python-revision/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Bit Manipulation
 |  |
@@ -104,6 +106,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arihantVIT/python-revision/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/arihantVIT/python-revision/tree/master/2404-most-frequent-even-element) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arihantVIT/python-revision/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## String
 |  |
