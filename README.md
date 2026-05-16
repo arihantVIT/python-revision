@@ -42,6 +42,7 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arihantVIT/python-revision/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/arihantVIT/python-revision/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0069-sqrtx](https://github.com/arihantVIT/python-revision/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/arihantVIT/python-revision/tree/master/0509-fibonacci-number) |
 | [2427-number-of-common-factors](https://github.com/arihantVIT/python-revision/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
@@ -126,6 +128,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/arihantVIT/python-revision/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arihantVIT/python-revision/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/arihantVIT/python-revision/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -161,4 +164,8 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/arihantVIT/python-revision/tree/master/2427-number-of-common-factors) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/arihantVIT/python-revision/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
