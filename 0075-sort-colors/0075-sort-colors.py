@@ -1,11 +1,11 @@
-class Solution:
-    def sortColors(self, nums: List[int]) -> None:
+class Solution(object):
+    def sortColors(self, nums):
         n = len(nums)
-        for i in range(0,n):
-            swapped=False
-            for j in range(0,n-i-1):
-                if nums[j]>nums[j+1]:
-                    nums[j],nums[j+1]=nums[j+1],nums[j]
-                    swapped=True
-            if not swapped:
-                break
+        for i in range(n):
+            min_idx = i
+            for j in range(i+1, n):
+                if nums[j]<nums[min_idx]:
+                    min_idx = j
+            nums[i], nums[min_idx] = nums[min_idx], nums[i]
+
+        return nums
