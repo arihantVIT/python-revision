@@ -58,6 +58,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/arihantVIT/python-revision/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/arihantVIT/python-revision/tree/master/1903-largest-odd-number-in-string) |
 | [2427-number-of-common-factors](https://github.com/arihantVIT/python-revision/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0013-roman-to-integer](https://github.com/arihantVIT/python-revision/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/arihantVIT/python-revision/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/arihantVIT/python-revision/tree/master/0043-multiply-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/arihantVIT/python-revision/tree/master/1903-largest-odd-number-in-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/arihantVIT/python-revision/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Linked List
 |  |
@@ -173,4 +175,8 @@ Revising Python &amp; DSA after exams — daily progress log
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arihantVIT/python-revision/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arihantVIT/python-revision/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
