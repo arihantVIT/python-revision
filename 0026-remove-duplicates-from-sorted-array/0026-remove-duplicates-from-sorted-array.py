@@ -1,11 +1,20 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        empty_set = set()
-        unique_nums = []
+        freqMap={}
+        n = len(nums)
+        keys=[]
+
         for num in nums:
-            if num not in empty_set:
-                unique_nums.append(num)
-                empty_set.add(num)
-        nums[:len(unique_nums)] = unique_nums
-        return len(unique_nums)
+            if num in freqMap:
+                freqMap[num]+=1
+            else:
+                freqMap[num] = 1
+        
+        for key in freqMap:
+            keys.append(key)
+
+        for j in range(len(keys)):
+            nums[j] = keys[j]
+
+        return len(keys)        
         
