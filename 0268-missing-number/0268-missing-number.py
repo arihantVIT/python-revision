@@ -1,11 +1,17 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        nums_sorted=sorted(nums)
-        nums_all=[]
-        n=len(nums)
+        n = len(nums)
+        myDict={}
+
         for i in range(0,n+1):
-            nums_all.append(i)
-        for i in range(len(nums_all)):
-            if i not in nums_sorted:
-                return i
-        
+            myDict[i] = 0
+    
+        #updating dictionary
+        for num in nums:
+            if num in myDict:
+                myDict[num]+=1
+    
+        for key in myDict:
+            if myDict[key]==0:
+                return key
+    
