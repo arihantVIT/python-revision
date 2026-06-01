@@ -23,6 +23,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0283-move-zeroes](https://github.com/arihantVIT/python-revision/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arihantVIT/python-revision/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/arihantVIT/python-revision/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/arihantVIT/python-revision/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arihantVIT/python-revision/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2404-most-frequent-even-element](https://github.com/arihantVIT/python-revision/tree/master/2404-most-frequent-even-element) |
