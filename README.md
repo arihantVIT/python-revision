@@ -27,6 +27,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0485-max-consecutive-ones](https://github.com/arihantVIT/python-revision/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arihantVIT/python-revision/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arihantVIT/python-revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/arihantVIT/python-revision/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arihantVIT/python-revision/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arihantVIT/python-revision/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arihantVIT/python-revision/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | ------- |
 | [0043-multiply-strings](https://github.com/arihantVIT/python-revision/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/arihantVIT/python-revision/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
 | ------- |
