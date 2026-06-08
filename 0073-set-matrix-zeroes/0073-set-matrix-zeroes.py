@@ -6,20 +6,27 @@ class Solution:
         r = len(matrix)
         c = len(matrix[0])
 
-        indices = []
+        row_track = [0]*r
+        col_track = [0]*c
 
         for i in range(r):
             for j in range(c):
-                if matrix[i][j]==0:
-                    indices.append([i,j])
+                if matrix[i][j] == 0:
+                    row_track[i]=-1
+                    col_track[j]=-1
         
-        for idx in indices:
+        #setting rows zero
+        for i in range(r):
+            row = row_track[i]
 
-            #converting rows
-            for j in range(c):
-                i = idx[0]
-                matrix[i][j] = 0
-            
-            for i in range(r):
-                j = idx[1]
-                matrix[i][j] = 0
+            if row<0:
+                for j in range(c):
+                    matrix[i][j]=0
+        #setting column zero
+        for j in range(c):
+            col = col_track[j]
+            if col<0:
+                for i in range(r):
+                    matrix[i][j] = 0
+
+        
