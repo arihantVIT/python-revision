@@ -29,6 +29,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0414-third-maximum-number](https://github.com/arihantVIT/python-revision/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/arihantVIT/python-revision/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/arihantVIT/python-revision/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/arihantVIT/python-revision/tree/master/0704-binary-search) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/arihantVIT/python-revision/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arihantVIT/python-revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/arihantVIT/python-revision/tree/master/2404-most-frequent-even-element) |
@@ -79,6 +80,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0268-missing-number](https://github.com/arihantVIT/python-revision/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/arihantVIT/python-revision/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/arihantVIT/python-revision/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/arihantVIT/python-revision/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
