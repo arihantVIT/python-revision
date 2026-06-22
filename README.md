@@ -46,6 +46,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0189-rotate-array](https://github.com/arihantVIT/python-revision/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arihantVIT/python-revision/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arihantVIT/python-revision/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/arihantVIT/python-revision/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/arihantVIT/python-revision/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -148,6 +149,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arihantVIT/python-revision/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/arihantVIT/python-revision/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arihantVIT/python-revision/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/arihantVIT/python-revision/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
