@@ -39,6 +39,7 @@ Revising Python &amp; DSA after exams — daily progress log
 | ------- |
 | [0015-3sum](https://github.com/arihantVIT/python-revision/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/arihantVIT/python-revision/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arihantVIT/python-revision/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arihantVIT/python-revision/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arihantVIT/python-revision/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/arihantVIT/python-revision/tree/master/0075-sort-colors) |
@@ -150,6 +151,7 @@ Revising Python &amp; DSA after exams — daily progress log
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arihantVIT/python-revision/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arihantVIT/python-revision/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/arihantVIT/python-revision/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arihantVIT/python-revision/tree/master/0142-linked-list-cycle-ii) |
